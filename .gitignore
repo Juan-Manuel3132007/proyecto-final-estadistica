@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.Rhistory
+informe/*.aux
+informe/*.log
+informe/*.toc
+informe/*.out
+informe/*.synctex.gz
+Rplots.pdf
